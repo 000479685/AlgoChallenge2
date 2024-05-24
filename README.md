@@ -1,1 +1,1 @@
-# Algo_Challenge2
+# AlgoChallenge2
